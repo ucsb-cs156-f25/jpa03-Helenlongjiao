@@ -2,6 +2,7 @@
 
 Running at: <https://jpa03-helenlongjiao.dokku-06.cs.ucsb.edu>
 
+
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
